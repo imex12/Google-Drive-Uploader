@@ -1,6 +1,6 @@
 class Creds():
     # ENTER Your bot Token Here
-    TG_TOKEN = ""
+    TG_TOKEN = "5362742064:AAGYLBoZXIOp2S6VHOWY69Zk7RC3FFsCfqI"
     
     
     
@@ -8,10 +8,10 @@ class Creds():
     # Because of pydrive And pydrive v2 Api
     
     #Folder Id Of Teamdrive
-    TEAMDRIVE_FOLDER_ID = ""
+    TEAMDRIVE_FOLDER_ID = "0AMxY9fQfEcwhUk9PVA"
     
     # Id of Team drive 
-    TEAMDRIVE_ID = ""
+    TEAMDRIVE_ID = "1a4kLmFWmfpz73d_D6VsvyhlpJ_MgWuXu"
     
     
     
